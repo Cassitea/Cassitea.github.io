@@ -30,7 +30,7 @@
 }
 
 .thing0 {
-    background-image: url(../NguyenCAFinal/pictures/shipwreck2.jpg);
+    background-image: url(pictures/shipwreck2.jpg);
     background-size: cover;
     border-radius: 10px;
     grid-column-start: 3;
@@ -41,7 +41,7 @@
 
 
 .thing1 {
-    background-image: url(../NguyenCAFinal/pictures/shipwreck1.jpg);
+    background-image: url(pictures/shipwreck1.jpg);
     background-size: cover;
     border-radius: 10px;
     grid-column-start: 1;
