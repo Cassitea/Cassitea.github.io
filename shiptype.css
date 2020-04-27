@@ -32,7 +32,7 @@
 
 .P1 {
     text-align: center;
-    background-image: url(../NguyenCAFinal/pictures/picture1.jpg);
+    background-image: url(pictures/picture1.jpg);
     background-size: cover;
     border-radius: 10px;
     grid-column-start: 1;
@@ -53,7 +53,7 @@
 
 .P2 {
     text-align: center;
-    background-image: url(../NguyenCAFinal/pictures/picture2.jpg);
+    background-image: url(pictures/picture2.jpg);
     background-size:cover;
     border-radius: 10px;
     grid-column-start: 2;
@@ -67,7 +67,7 @@
 
 .P3 {
     text-align: center;
-    background-image: url(../NguyenCAFinal/pictures/picture3.jpg);
+    background-image: url(pictures/picture3.jpg);
     background-size: cover;
     border-radius: 10px;
     grid-column-start: 3;
@@ -88,7 +88,7 @@
 
 .P4 {
     text-align: center;
-    background-image: url(../NguyenCAFinal/pictures/picture4.jpg);
+    background-image: url(pictures/picture4.jpg);
     background-size: cover;
     border-radius: 10px;
     grid-column-start: 4;
